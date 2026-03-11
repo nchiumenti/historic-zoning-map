@@ -1,1 +1,1 @@
-hellow world
+Website repo for Appendix A.2 of [*Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082457).

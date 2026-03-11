@@ -2,11 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
-      "/pages/brookline-1975.html",
-      "/pages/bedford-1979.html",
       "/pages/ashland-1976.html",
-      "/pages/cambridge-1981.html",
-      "/pages/beverly-1975.html"
+      "/pages/bedford-1979.html",
+      "/pages/beverly-1975.html",
+      "/pages/brookline-1975.html",
+      "/pages/cambridge-1981.html"
     ]
   }
 ]
