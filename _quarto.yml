@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Historic Zoning Maps"
+  #navbar:
+  sidebar:
+    style: "floating"
+    search: false
+    contents:
+      - href: index.qmd
+        text: Maps
+      - href: dashboard.qmd
+        text: Dashboard
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    grid:
+      sidebar-width: 150px
+      body-width: 2000px
+      margin-width: 100px
+

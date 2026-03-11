@@ -1,0 +1,24 @@
+---
+title: "Historic Zoning Maps for Appenix A.2."
+description: >
+  Historic zoning maps for Massachusetts Greater Boston cities and towns found in Appendix A.2 of 
+  [*Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082457)
+listing:
+  contents: pages
+  type: grid
+  image-height: "100%"
+  grid-columns: 3
+  page-size: 40
+  grid-item-border: false
+  grid-item-align: center
+  fields: [title, image]
+  #sort-ui: [title]
+  sort: "title"
+  categories: true
+
+format:
+  html:
+    page-layout: full
+---
+
+[**Original zoning boundaries**]{style="color: #FC8D62;"} | [**Final zoning boundaries**]{style="color: #66C2A5;"}

@@ -1,0 +1,19 @@
+---
+title: Historic Zoning Map Dashboard
+description: Historic zoning maps for Massachusetts Greater Boston cities and towns.
+author: Nicholas Chiumenti
+date: 3/10/2026
+categories: [dashboard]
+format:
+  html:
+    page-layout: full
+---
+
+
+<iframe
+  src="https://ruraldevelopment.maps.arcgis.com/apps/dashboards/71b650adca7f4b63972a174044ebd54b"
+  width="100%"
+  height="600px"
+  style="border:none;"
+  allowfullscreen>
+</iframe>

@@ -1,0 +1,13 @@
+---
+title: Brookline, 1975
+image: ../png_maps/brookline-1975.png
+description: Brookline, Massachusetts
+author: Nicholas Chiumenti
+date: 3/10/2026
+categories: [1975]
+format:
+  html:
+    page-layout: full
+---
+
+![Brookline, 1975](../png_maps/brookline-1975.png){.lightbox}

@@ -1,0 +1,13 @@
+---
+title: Ashland, 1976
+image: ../png_maps/ashland-1976.png
+description: Ashland, Massachusetts
+author: Nicholas Chiumenti
+date: 3/10/2026
+categories: [1976]
+format:
+  html:
+    page-layout: full
+---
+
+![Ashland, 1976](../png_maps/ashland-1976.png){.lightbox}

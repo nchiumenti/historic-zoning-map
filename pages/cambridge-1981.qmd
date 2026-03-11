@@ -1,0 +1,13 @@
+---
+title: Cambridge, 1981
+image: ../png_maps/cambridge-1981.png
+description: Cambridge, Massachusetts
+author: Nicholas Chiumenti
+date: 3/10/2026
+categories: [1981]
+format:
+  html:
+    page-layout: full
+---
+
+![Cambridge, 1981](../png_maps/cambridge-1981.png){.lightbox}

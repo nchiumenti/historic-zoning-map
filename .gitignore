@@ -1,9 +1,4 @@
-*
-!.gitignore
-!README.md
-!.nojekyll
-
-!docs/
-!docs/**
 /.quarto/
-**/*.quarto_ipynb
+/_site/
+/boundaries/
+/maps/tif
