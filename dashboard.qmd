@@ -13,7 +13,7 @@ format:
 <iframe
   src="https://ruraldevelopment.maps.arcgis.com/apps/dashboards/71b650adca7f4b63972a174044ebd54b"
   width="100%"
-  height="600px"
+  height="800px"
   style="border:none;"
   allowfullscreen>
 </iframe>

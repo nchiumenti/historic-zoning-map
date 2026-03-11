@@ -1,0 +1,13 @@
+---
+title: Wrentham, 1973
+image: ../maps/png/Wrentham-1973.png
+description: Wrentham, Massachusetts
+author: Nicholas Chiumenti
+date: 2026-03-11
+categories: [1973, W]
+format:
+  html:
+    page-layout: full
+---
+
+![](../maps/png/Wrentham-1973.png){.lightbox}

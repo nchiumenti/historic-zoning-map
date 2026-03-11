@@ -1,0 +1,13 @@
+---
+title: Duxbury, 1982
+image: ../maps/png/Duxbury-1982.png
+description: Duxbury, Massachusetts
+author: Nicholas Chiumenti
+date: 2026-03-11
+categories: [1982, D]
+format:
+  html:
+    page-layout: full
+---
+
+![](../maps/png/Duxbury-1982.png){.lightbox}

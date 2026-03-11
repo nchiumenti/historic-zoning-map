@@ -1,0 +1,13 @@
+---
+title: Milton, 1938
+image: ../maps/png/Milton-1938.png
+description: Milton, Massachusetts
+author: Nicholas Chiumenti
+date: 2026-03-11
+categories: [1938, M]
+format:
+  html:
+    page-layout: full
+---
+
+![](../maps/png/Milton-1938.png){.lightbox}

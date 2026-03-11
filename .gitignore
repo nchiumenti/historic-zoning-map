@@ -2,3 +2,5 @@
 /_site/
 /boundaries/
 /maps/tif
+
+**/*.quarto_ipynb

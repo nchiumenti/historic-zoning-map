@@ -1,0 +1,13 @@
+---
+title: Holbrook, 1971
+image: ../maps/png/Holbrook-1971.png
+description: Holbrook, Massachusetts
+author: Nicholas Chiumenti
+date: 2026-03-11
+categories: [1971, H]
+format:
+  html:
+    page-layout: full
+---
+
+![](../maps/png/Holbrook-1971.png){.lightbox}

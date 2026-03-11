@@ -13,6 +13,11 @@ website:
         text: Maps
       - href: dashboard.qmd
         text: Dashboard
+  page-footer: 
+    left:
+      - icon: github
+        href: https://github.com/nchiumenti/historic-zoning-map
+        aria-label: GitHub
 
 format:
   html:
@@ -24,5 +29,5 @@ format:
     grid:
       sidebar-width: 150px
       body-width: 2000px
-      margin-width: 100px
+      margin-width: 150px
 

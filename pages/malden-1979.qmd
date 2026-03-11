@@ -1,0 +1,13 @@
+---
+title: Malden, 1979
+image: ../maps/png/Malden-1979.png
+description: Malden, Massachusetts
+author: Nicholas Chiumenti
+date: 2026-03-11
+categories: [1979, M]
+format:
+  html:
+    page-layout: full
+---
+
+![](../maps/png/Malden-1979.png){.lightbox}

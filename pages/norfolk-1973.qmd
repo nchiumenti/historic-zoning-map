@@ -1,0 +1,13 @@
+---
+title: Norfolk, 1973
+image: ../maps/png/Norfolk-1973.png
+description: Norfolk, Massachusetts
+author: Nicholas Chiumenti
+date: 2026-03-11
+categories: [1973, N]
+format:
+  html:
+    page-layout: full
+---
+
+![](../maps/png/Norfolk-1973.png){.lightbox}
