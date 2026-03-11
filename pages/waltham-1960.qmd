@@ -1,6 +1,6 @@
 ---
 title: Waltham, 1960
-image: ../maps/png/Waltham-1960.png
+image: ../maps/png/waltham-1960.png
 description: Waltham, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-11
@@ -10,4 +10,4 @@ format:
     page-layout: full
 ---
 
-![](../maps/png/Waltham-1960.png){.lightbox}
+![](../maps/png/waltham-1960.png){.lightbox}

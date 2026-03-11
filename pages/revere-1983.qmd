@@ -1,6 +1,6 @@
 ---
 title: Revere, 1983
-image: ../maps/png/Revere-1983.png
+image: ../maps/png/revere-1983.png
 description: Revere, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-11
@@ -10,4 +10,4 @@ format:
     page-layout: full
 ---
 
-![](../maps/png/Revere-1983.png){.lightbox}
+![](../maps/png/revere-1983.png){.lightbox}

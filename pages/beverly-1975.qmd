@@ -1,6 +1,6 @@
 ---
 title: Beverly, 1975
-image: ../maps/png/Beverly-1975.png
+image: ../maps/png/beverly-1975.png
 description: Beverly, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-11
@@ -10,4 +10,4 @@ format:
     page-layout: full
 ---
 
-![](../maps/png/Beverly-1975.png){.lightbox}
+![](../maps/png/beverly-1975.png){.lightbox}

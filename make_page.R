@@ -24,7 +24,7 @@ options(scipen = 999)
 library(tidyverse)
 
 # get/set paths
-getwd()
+setwd("/home/nicholas/repos/historic zoning map/")
 
 regex_pattern <- "([A-Za-z]+)-([0-9][0-9][0-9][0-9]).png$"
 
@@ -40,7 +40,7 @@ for (f in f_list) {
   
   year <- stringr::str_extract(f, pattern = regex_pattern, group = 2)
   
-  f_path <- stringr::str_glue("../maps/png/{muni_cap}-{year}.png")
+  f_path <- stringr::str_glue("../maps/png/{muni}-{year}.png")
   
   alphabet <- str_sub(muni_cap, 1, 1)
   
@@ -65,10 +65,13 @@ for (f in f_list) {
   
   ![]({f_path}){{.lightbox}}")
   
-  print(x)
-  
   out_file <- stringr::str_glue("./pages/{muni}-{year}.qmd")
   
   write_lines(q, file = out_file)
   
 }
+
+
+
+
+

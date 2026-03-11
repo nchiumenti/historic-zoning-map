@@ -1,9 +1,8 @@
 ---
-title: Historic Zoning Map Dashboard
-description: Historic zoning maps for Massachusetts Greater Boston cities and towns.
+title: Dashboard
+subtitle: Greater Boston cities/towns historic zoning map and zoning boundary overlays.
 author: Nicholas Chiumenti
-date: 3/10/2026
-categories: [dashboard]
+date: 3/11/2026
 format:
   html:
     page-layout: full

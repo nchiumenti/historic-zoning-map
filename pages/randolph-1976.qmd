@@ -1,6 +1,6 @@
 ---
 title: Randolph, 1976
-image: ../maps/png/Randolph-1976.png
+image: ../maps/png/randolph-1976.png
 description: Randolph, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-11
@@ -10,4 +10,4 @@ format:
     page-layout: full
 ---
 
-![](../maps/png/Randolph-1976.png){.lightbox}
+![](../maps/png/randolph-1976.png){.lightbox}

@@ -1,6 +1,6 @@
 ---
 title: Norwell, 1981
-image: ../maps/png/Norwell-1981.png
+image: ../maps/png/norwell-1981.png
 description: Norwell, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-11
@@ -10,4 +10,4 @@ format:
     page-layout: full
 ---
 
-![](../maps/png/Norwell-1981.png){.lightbox}
+![](../maps/png/norwell-1981.png){.lightbox}
