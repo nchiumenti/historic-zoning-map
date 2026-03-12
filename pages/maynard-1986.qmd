@@ -3,7 +3,7 @@ title: Maynard, 1986
 image: ../maps/png/maynard-1986.png
 description: Maynard, Massachusetts
 author: Nicholas Chiumenti
-date: 2026-03-11
+date: 2026-03-12
 categories: [1986, M]
 format:
   html:

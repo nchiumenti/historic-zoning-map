@@ -3,7 +3,7 @@ title: Somerville, 1984
 image: ../maps/png/somerville-1984.png
 description: Somerville, Massachusetts
 author: Nicholas Chiumenti
-date: 2026-03-11
+date: 2026-03-12
 categories: [1984, S]
 format:
   html:

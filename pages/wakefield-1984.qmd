@@ -3,7 +3,7 @@ title: Wakefield, 1984
 image: ../maps/png/wakefield-1984.png
 description: Wakefield, Massachusetts
 author: Nicholas Chiumenti
-date: 2026-03-11
+date: 2026-03-12
 categories: [1984, W]
 format:
   html:

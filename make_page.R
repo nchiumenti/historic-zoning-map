@@ -41,6 +41,8 @@ for (f in f_list) {
   year <- stringr::str_extract(f, pattern = regex_pattern, group = 2)
   
   f_path <- stringr::str_glue("../maps/png/{muni}-{year}.png")
+
+  t_path <- stringr::str_glue("../maps/thumbnails/{muni}-{year}-tn.png")
   
   alphabet <- str_sub(muni_cap, 1, 1)
   

@@ -3,7 +3,7 @@ title: Millis, 1980
 image: ../maps/png/millis-1980.png
 description: Millis, Massachusetts
 author: Nicholas Chiumenti
-date: 2026-03-11
+date: 2026-03-12
 categories: [1980, M]
 format:
   html:

@@ -3,7 +3,7 @@ title: Wellesley, 1975
 image: ../maps/png/wellesley-1975.png
 description: Wellesley, Massachusetts
 author: Nicholas Chiumenti
-date: 2026-03-11
+date: 2026-03-12
 categories: [1975, W]
 format:
   html:
