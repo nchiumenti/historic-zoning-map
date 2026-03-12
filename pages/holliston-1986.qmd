@@ -1,6 +1,6 @@
 ---
 title: Holliston, 1986
-image: ../maps/png/holliston-1986.png
+image: ../maps/thumbnails/holliston-1986-tn.jpg
 description: Holliston, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

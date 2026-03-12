@@ -1,6 +1,6 @@
 ---
 title: Needham, 1979
-image: ../maps/png/needham-1979.png
+image: ../maps/thumbnails/needham-1979-tn.jpg
 description: Needham, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

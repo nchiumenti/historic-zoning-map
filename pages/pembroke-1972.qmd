@@ -1,6 +1,6 @@
 ---
 title: Pembroke, 1972
-image: ../maps/png/pembroke-1972.png
+image: ../maps/thumbnails/pembroke-1972-tn.jpg
 description: Pembroke, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

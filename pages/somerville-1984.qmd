@@ -1,6 +1,6 @@
 ---
 title: Somerville, 1984
-image: ../maps/png/somerville-1984.png
+image: ../maps/thumbnails/somerville-1984-tn.jpg
 description: Somerville, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

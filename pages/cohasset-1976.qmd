@@ -1,6 +1,6 @@
 ---
 title: Cohasset, 1976
-image: ../maps/png/cohasset-1976.png
+image: ../maps/thumbnails/cohasset-1976-tn.jpg
 description: Cohasset, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

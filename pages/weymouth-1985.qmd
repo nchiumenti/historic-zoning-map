@@ -1,6 +1,6 @@
 ---
 title: Weymouth, 1985
-image: ../maps/png/weymouth-1985.png
+image: ../maps/thumbnails/weymouth-1985-tn.jpg
 description: Weymouth, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

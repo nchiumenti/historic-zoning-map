@@ -1,6 +1,6 @@
 ---
 title: Bedford, 1979
-image: ../maps/png/bedford-1979.png
+image: ../maps/thumbnails/bedford-1979-tn.jpg
 description: Bedford, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

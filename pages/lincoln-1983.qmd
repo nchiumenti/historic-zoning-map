@@ -1,6 +1,6 @@
 ---
 title: Lincoln, 1983
-image: ../maps/png/lincoln-1983.png
+image: ../maps/thumbnails/lincoln-1983-tn.jpg
 description: Lincoln, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

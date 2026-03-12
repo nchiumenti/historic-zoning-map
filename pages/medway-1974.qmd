@@ -1,6 +1,6 @@
 ---
 title: Medway, 1974
-image: ../maps/png/medway-1974.png
+image: ../maps/thumbnails/medway-1974-tn.jpg
 description: Medway, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

@@ -1,6 +1,6 @@
 ---
 title: Ashland, 1976
-image: ../maps/png/ashland-1976.png
+image: ../maps/thumbnails/ashland-1976-tn.jpg
 description: Ashland, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

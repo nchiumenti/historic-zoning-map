@@ -1,6 +1,6 @@
 ---
 title: Milford, 1976
-image: ../maps/png/milford-1976.png
+image: ../maps/thumbnails/milford-1976-tn.jpg
 description: Milford, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

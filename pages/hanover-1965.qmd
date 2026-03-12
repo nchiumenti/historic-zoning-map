@@ -1,6 +1,6 @@
 ---
 title: Hanover, 1965
-image: ../maps/png/hanover-1965.png
+image: ../maps/thumbnails/hanover-1965-tn.jpg
 description: Hanover, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12

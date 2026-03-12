@@ -42,7 +42,7 @@ for (f in f_list) {
   
   f_path <- stringr::str_glue("../maps/png/{muni}-{year}.png")
 
-  t_path <- stringr::str_glue("../maps/thumbnails/{muni}-{year}-tn.png")
+  t_path <- stringr::str_glue("../maps/thumbnails/{muni}-{year}-tn.jpg")
   
   alphabet <- str_sub(muni_cap, 1, 1)
   
@@ -50,12 +50,13 @@ for (f in f_list) {
   # print(muni_cap)
   # print(year)
   # print(f_path)
+  print(t_path)
   # print(alphabet)
   # print("")
   
   q <- stringr::str_glue("---
   title: {muni_cap}, {year}
-  image: {f_path}
+  image: {t_path}
   description: {muni_cap}, Massachusetts
   author: Nicholas Chiumenti
   date: {Sys.Date()}

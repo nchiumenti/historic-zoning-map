@@ -1,6 +1,6 @@
 ---
 title: Southborough, 1984
-image: ../maps/png/southborough-1984.png
+image: ../maps/thumbnails/southborough-1984-tn.jpg
 description: Southborough, Massachusetts
 author: Nicholas Chiumenti
 date: 2026-03-12
