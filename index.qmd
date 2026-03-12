@@ -1,6 +1,6 @@
 ---
 title: Maps
-subtitle: Greater Boston cities/towns historic zoning map and zoning boundary overlays.
+subtitle: Greater Boston city & town historic zoning maps and current zoning boundary overlays.
 author: Nicholas Chiumenti
 date: 3/11/2026
 listing:

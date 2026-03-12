@@ -1,3 +1,3 @@
 **Map Key:** [original zoning boundaries]{style="color: #FC8D62;"} | [Final zoning boundaries]{style="color: #66C2A5;"}
 
-Historic Zoning Maps provides the complete set offor Massachusetts Greater Boston cities and towns found in *Appendix A.2* of [*Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082457). 
+Historic Zoning Maps provides the Massachusetts Greater Boston city and town maps found in *Appendix A.2* of [*Under the (Neighbor)Hood: Understanding Interactions Among Zoning Regulations*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082457). 
