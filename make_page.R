@@ -24,7 +24,7 @@ options(scipen = 999)
 library(tidyverse)
 
 # get/set paths
-setwd("/home/nicholas/repos/historic zoning map/")
+setwd("/home/nicholas/repos/historic-zoning-map/")
 
 regex_pattern <- "([A-Za-z]+)-([0-9][0-9][0-9][0-9]).png$"
 
